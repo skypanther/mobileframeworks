@@ -31,8 +31,8 @@ It is **not**:
 | Apple Watch apps   |  &#x274e; | &#x2705;  | &#x2753;   |
 | tvOS apps   | &#x274c; | &#x2705;  | &#x26d4; |
 | Unified x-platform UI &#x1f132; | &#x274e; | &#x274c; | &#x274c; |
-| Direct access<br/>to native APIs | &#x26d4; &#x1f133; | &#x2705; |&#x2705; |
-| Module-based<br/>extensibility | &#x2705; | &#x2705; | n/a |
+| Direct access<br/>to native APIs | Via modules &#x1f133; | &#x2705; |Via modules |
+| Module-based<br/>extensibility | &#x2705; | &#x2705; | &#x2705; |
 | Reusable UI<br/>components | Alloy Widgets | Plugins | &#x2753; |
 | Styling | TSS (proprietary<br/>CSS-like) | CSS subset | Flexbox |
 | Debugging | Via Studio IDE | Chrome debug tools | Chrome debug tools |
