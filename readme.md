@@ -8,13 +8,14 @@ It is **not**:
 * a comparison of all tools available.
 * an endorsement of any one tool vs another.
 * a tutorial.
+* a comparison of web wrapper (e.g. Cordova-type) tools.
 
 ## Comparison Table
 
 **Key:**
 
 * &#x2705; - yes, supports
-* &#x274e; = mostly yes, some missing feature
+* &#x274e; = mostly yes, some missing features
 * &#x26d4; - mostly no
 * &#x274c; - no / not at all
 * &#x2753; - unknown
@@ -27,6 +28,8 @@ It is **not**:
 | iOS apps       | &#x2705; | &#x2705;   | &#x2705;   |
 | Android apps   | &#x2705; | &#x2705;   | &#x274e; &#x1f130;   |
 | Windows apps   | &#x2705; | &#x274c; &#x1f131;  | &#x274c;   |
+| Apple Watch apps   |  &#x274e; | &#x2705;  | &#x2753;   |
+| tvOS apps   | &#x274c; | &#x2705;  | &#x26d4; |
 | Unified x-platform UI &#x1f132; | &#x274e; | &#x274c; | &#x274c; |
 | Direct access<br/>to native APIs | &#x26d4; &#x1f133; | &#x2705; |&#x2705; |
 | Module-based<br/>extensibility | &#x2705; | &#x2705; | n/a |
@@ -87,7 +90,9 @@ Submit a pull request!
 
 ## More info / references
 
-* Vendor sites, GitHub repos, blogs, and other vendor-provided resources
+* Most of this info comes from the vendor sites, GitHub repos, blogs, and other vendor-provided resources
+* Josh Jensen's *<a href="http://www.slideshare.net/joshcjensen/connectjs-2015-building-native-mobile-applications-with-javascript">Connect.js 2015 - Building Native Mobile Applications with Javascript</a>*  slide deck compares the three frameworks 
+* http://mobilejs.io/ is a reference ToDo app in all three frameworks, from Josh Jensen
 * http://jolicode.com/blog/crossing-the-native-bridge-to-build-apps-with-javascript
 
 ##Disclosure
