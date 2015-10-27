@@ -48,6 +48,7 @@ It is **not**:
 | MBaaS companion | Arrow Cloud | DevCloud | Parse |
 | Subscriptions/cost | OSS: Free &#x1f139;<br/>Indie: $39/mo<br/>Team: $259/seat/mo<br/>Enterprise: call | OSS: Free<br/>Seat: $39/mo<br/>Add-ons: vary<br/>Enterprise: call | Free |
 
+An interesting project to watch is [react-titanium](https://github.com/yuchi/react-titanium) which is a custom React renderer for Titanium. In theory, this would give you a mix of benefits of those two tools.
 
 **Footnotes**
 
@@ -94,6 +95,7 @@ Submit a pull request!
 * Josh Jensen's *<a href="http://www.slideshare.net/joshcjensen/connectjs-2015-building-native-mobile-applications-with-javascript">Connect.js 2015 - Building Native Mobile Applications with Javascript</a>*  slide deck compares the three frameworks 
 * http://mobilejs.io/ is a reference ToDo app in all three frameworks, from Josh Jensen
 * http://jolicode.com/blog/crossing-the-native-bridge-to-build-apps-with-javascript
+* [react-titanium](https://github.com/yuchi/react-titanium) custom React renderer for Titanium
 
 ##Disclosure
 
