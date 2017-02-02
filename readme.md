@@ -74,17 +74,6 @@ An interesting project to watch is [react-titanium](https://github.com/yuchi/rea
 | Subscriber     | Jira, self-serve forums  | Google group, partners   |   n/a |
 | OSS/Community     | <a href="https://community.appcelerator.com/" target="_blank">Self-serve forums</a>   | <a href="https://groups.google.com/forum/#!forum/nativescript" target="_blank">Google group</a>  |  n/a  |
 
-### Metrics
-
-|Metric      |Titanium  |NativeScript|ReactNative |
-|-------------|----------|------------|------------|
-| Open tickets     | 36,936  | 182  | 497   |
-| Age of oldest ticket     | 12 Dec 2003  | 25 Mar 2015  | 4 Feb 2015   |
-| Open pull requests    | 89  | 9  | 196   |
-| Age of oldest PR    | ~3 yrs  | ~4 mo  |  ~6 mo  |
-
-*(Snapshot as of 29 Sep 2015 -- please, no PRs to update this. Visit the actual vendor repos/sites for current data.)*
-
 ## Discrepencies? Missing Info?
 
 Submit a pull request!
