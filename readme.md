@@ -72,7 +72,7 @@ An interesting project to watch is [react-titanium](https://github.com/yuchi/rea
 | Issues/Tickets     | <a href="https://jira.appcelerator.org/" target="_blank">Jira</a>  | <a href="https://github.com/NativeScript/NativeScript/issues" target="_blank">GitHub</a>   |  <a href="https://github.com/facebook/react-native/issues" target="_blank">GitHub</a>  |
 | Enterprise     | Varies:<br/>Jira, SLA, phone  | Varies: contact-us   |  n/a  |
 | Subscriber     | Jira, self-serve forums  | Google group, partners   |   n/a |
-| OSS/Community     | <a href="https://community.appcelerator.com/" target="_blank">Self-serve forums</a>   | <a href="https://groups.google.com/forum/#!forum/nativescript" target="_blank">Google group</a>  |  n/a  |
+| OSS/Community     | <a href="http://tislack.org/" target="_blank">Titanium Slack Community</a>   | <a href="https://groups.google.com/forum/#!forum/nativescript" target="_blank">Google group</a>  |  n/a  |
 
 ## Discrepencies? Missing Info?
 
