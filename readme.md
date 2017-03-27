@@ -42,8 +42,8 @@ It is **not**:
 | Code encryption | &#x274e; | &#x274c; | &#x274c; |
 | Compile-time license<br/>checks | &#x2757; | &#x274c; | &#x274c; |
 | Run-time license<br/>checks | &#x2757; | &#x274c; | &#x274c; |
-| Testing / crash<br/>reporting | Subscribers | Subscribers | Parse |
-| Analytics | Subscribers | Paid add-on | Parse |
+| Testing / crash<br/>reporting<sup>11</sup> | Subscribers | Subscribers | Parse |
+| Analytics<sup>11</sup><br/><small>provided by the developer</small> | Subscribers | Paid add-on | Parse |
 | IDE | Appcelerator Studio <sup>6</sup> | &#x26d4; <sup>7</sup> | &#x274c; <sup>8</sup> |
 | Framework | Alloy (MVC-like)| &#x2753; | &#x2753; <sup>9</sup> |
 | Biz model   | Enterprise, MBaaS,<br/>Paid subscriptions | Enterprise, MBaaS,<br/>Paid add-ons | &#x2753; |
@@ -64,6 +64,7 @@ An interesting project to watch is [react-titanium](https://github.com/yuchi/rea
 * <sup>8</sup> - Atom-based IDE is reported to be in development; community-created plug-ins available.
 * <sup>9</sup> - In essence, ReactNative is just the "V" of MVC
 * <sup>10</sup> - Appcelerator publishes their current SDK to only subscribers. OSS/community members have access to one-prior releases (so if current version is 5.1.0.GA, OSS members get access to 5.0.0.GA). OSS users can compile the current SDK from source or use a <a href="http://builds.appcelerator.com.s3.amazonaws.com/index.html#master" target="_blank">CI build</a>.
+* <sup>11</sup> - Free alternatives can be used via external plug-ins
 
 
 
