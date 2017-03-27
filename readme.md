@@ -24,7 +24,7 @@ It is **not**:
 |Feature      |<a href="http://www.appcelerator.com" target="_blank">Titanium</a>  |<a href="https://www.nativescript.org/" target="_blank">NativeScript</a>|<a href="https://facebook.github.io/react-native/" target="_blank">ReactNative</a> |
 |-------------|----------|------------|------------|
 | License     | Apache / Proprietary   | Apache   | BSD   |
-| Current version     | [6.0.2.GA](http://docs.appcelerator.com/platform/latest/#!/guide/Titanium_SDK_6.0.2.GA_Release_Note)   | [2.5](https://www.nativescript.org/blog/nativescript-25-is-now-available)   | [0.42](https://github.com/facebook/react-native/releases/tag/v0.42.0)   |
+| Current version     | [6.0.3.GA](http://docs.appcelerator.com/platform/latest/#!/guide/Titanium_SDK_6.0.3.GA_Release_Note)   | [2.5](https://www.nativescript.org/blog/nativescript-25-is-now-available)   | [0.42](https://github.com/facebook/react-native/releases/tag/v0.42.0)   |
 | Release date     | 02/22/2017   | 01/02/2017   | 01/03/2017   |
 | Code repo     | <a href="https://github.com/appcelerator/titanium_mobile/" target="_blank">titanium-mobile</a>   | <a href="https://github.com/NativeScript/NativeScript" target="_blank">NativeScript</a>   | <a href="https://github.com/facebook/react-native" target="_blank">react</a>   |
 | iOS apps       | &#x2705; | &#x2705;   | &#x2705;   |
