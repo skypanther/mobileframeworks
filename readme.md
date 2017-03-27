@@ -24,8 +24,8 @@ It is **not**:
 |Feature      |<a href="http://www.appcelerator.com" target="_blank">Titanium</a>  |<a href="https://www.nativescript.org/" target="_blank">NativeScript</a>|<a href="https://facebook.github.io/react-native/" target="_blank">ReactNative</a> |
 |-------------|----------|------------|------------|
 | License     | Apache / Proprietary   | Apache   | BSD   |
-| Current version     | [6.0.2.GA](http://docs.appcelerator.com/platform/latest/#!/guide/Titanium_SDK_6.0.2.GA_Release_Note)   | [2.5](https://www.nativescript.org/blog/nativescript-25-is-now-available)   | [0.42](https://github.com/facebook/react-native/releases/tag/v0.42.0)   |
-| Release date     | 02/22/2017   | 01/02/2017   | 01/03/2017   |
+| Current version     | [6.0.3.GA](http://docs.appcelerator.com/platform/latest/#!/guide/Titanium_SDK_6.0.3.GA_Release_Note)   | [2.5](https://www.nativescript.org/blog/nativescript-25-is-now-available)   | [0.42](https://github.com/facebook/react-native/releases/tag/v0.42.0)   |
+| Release date     | 03/22/2017   | 01/02/2017   | 01/03/2017   |
 | Code repo     | <a href="https://github.com/appcelerator/titanium_mobile/" target="_blank">titanium-mobile</a>   | <a href="https://github.com/NativeScript/NativeScript" target="_blank">NativeScript</a>   | <a href="https://github.com/facebook/react-native" target="_blank">react</a>   |
 | iOS apps       | &#x2705; | &#x2705;   | &#x2705;   |
 | Android apps   | &#x2705; | &#x2705;   | &#x274e; <sup>1</sup>   |
@@ -48,7 +48,7 @@ It is **not**:
 | Framework | Alloy (MVC-like)| &#x2753; | &#x2753; <sup>9</sup> |
 | Biz model   | Enterprise, MBaaS,<br/>Paid subscriptions | Enterprise, MBaaS,<br/>Paid add-ons | &#x2753; |
 | MBaaS companion | Arrow Cloud | DevCloud | Parse |
-| Subscriptions/cost | OSS: Free <sup>10</sup><br/>Indie: $39/mo<br/>Team: $259/seat/mo<br/>Enterprise: call | OSS: Free<br/>Seat: $39/mo<br/>Add-ons: vary<br/>Enterprise: call | Free |
+| Subscriptions/cost | OSS: Free <sup>10</sup><br/>Indie: $36/mo<br/>Pro: $99/seat/mo<br/>Enterprise: call | OSS: Free<br/>Seat: $39/mo<br/>Add-ons: vary<br/>Enterprise: call | Free |
 
 An interesting project to watch is [react-titanium](https://github.com/yuchi/react-titanium) which is a custom React renderer for Titanium. In theory, this would give you a mix of benefits of those two tools.
 
@@ -63,7 +63,7 @@ An interesting project to watch is [react-titanium](https://github.com/yuchi/rea
 * <sup>7</sup> - Telerik offers plug-ins for Visual Studio and Sublime. They also offer an online code editor and build tools.
 * <sup>8</sup> - Atom-based IDE is reported to be in development; community-created plug-ins available.
 * <sup>9</sup> - In essence, ReactNative is just the "V" of MVC
-* <sup>10</sup> - Appcelerator publishes their current SDK to only subscribers. OSS/community members have access to one-prior releases (so if current version is 5.1.0.GA, OSS members get access to 5.0.0.GA). OSS users can compile the current SDK from source or use a <a href="http://builds.appcelerator.com.s3.amazonaws.com/index.html#master" target="_blank">CI build</a>.
+* <sup>10</sup> - Appcelerator publishes their current SDK to only subscribers. OSS/community members have access to one-prior releases (so if current version is 5.1.0.GA, OSS members get access to 5.0.0.GA). OSS users can compile the current SDK from source or use a <a href="http://builds.appcelerator.com.s3.amazonaws.com/index.html#master" target="_blank">CI build</a>. A [community CLI tool, TiSDK](https://github.com/dbankier/tisdk) has been created to download all GA versions.
 * <sup>11</sup> - Free alternatives can be used via external plug-ins
 
 
@@ -75,7 +75,7 @@ An interesting project to watch is [react-titanium](https://github.com/yuchi/rea
 | Issues/Tickets     | <a href="https://jira.appcelerator.org/" target="_blank">Jira</a>  | <a href="https://github.com/NativeScript/NativeScript/issues" target="_blank">GitHub</a>   |  <a href="https://github.com/facebook/react-native/issues" target="_blank">GitHub</a>  |
 | Enterprise     | Varies:<br/>Jira, SLA, phone  | Varies: contact-us   |  n/a  |
 | Subscriber     | Jira, self-serve forums  | Google group, partners   |   n/a |
-| OSS/Community     | <a href="https://community.appcelerator.com/" target="_blank">Self-serve forums</a>   | <a href="https://groups.google.com/forum/#!forum/nativescript" target="_blank">Google group</a>  |  n/a  |
+| OSS/Community     | <a href="http://tislack.org/" target="_blank">Titanium Slack Community</a>   | <a href="https://groups.google.com/forum/#!forum/nativescript" target="_blank">Google group</a>  |  n/a  |
 
 ## Discrepencies? Missing Info?
 
