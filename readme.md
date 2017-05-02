@@ -31,7 +31,7 @@ It is **not**:
 | Apple Watch apps   |  &#x274e; | &#x2705;  | &#x2753;   |
 | tvOS apps   | &#x274c; | &#x2705;  | &#x26d4; |
 | Unified x-platform UI &#x1f132; | &#x274e; | &#x274c; | &#x274c; |
-| Direct access<br/>to native APIs | Via modules &#x1f133; | &#x2705; |Via modules |
+| Direct access<br/>to native APIs | Via modules or Hyperloop JS | &#x2705; |Via modules |
 | Module-based<br/>extensibility | &#x2705; | &#x2705; | &#x2705; |
 | Reusable UI<br/>components | Alloy Widgets | Plugins | &#x2753; |
 | Styling | TSS (proprietary<br/>CSS-like) | CSS subset | Flexbox |
@@ -46,7 +46,7 @@ It is **not**:
 | Framework | Alloy (MVC-like)| &#x2753; | &#x2753; &#x1f138; |
 | Biz model   | Enterprise, MBaaS,<br/>Paid subscriptions | Enterprise, MBaaS,<br/>Paid add-ons | &#x2753; |
 | MBaaS companion | Arrow Cloud | DevCloud | Parse |
-| Subscriptions/cost | OSS: Free &#x1f139;<br/>Indie: $39/mo<br/>Team: $259/seat/mo<br/>Enterprise: call | OSS: Free<br/>Seat: $39/mo<br/>Add-ons: vary<br/>Enterprise: call | Free |
+| Subscriptions/cost | Indie: Free<br/>Pro: $99/seat/mo<br/>Enterprise: call | OSS: Free<br/>Seat: $39/mo<br/>Add-ons: vary<br/>Enterprise: call | Free |
 
 An interesting project to watch is [react-titanium](https://github.com/yuchi/react-titanium) which is a custom React renderer for Titanium. In theory, this would give you a mix of benefits of those two tools.
 
@@ -55,15 +55,11 @@ An interesting project to watch is [react-titanium](https://github.com/yuchi/rea
 * &#x1f130; - Just released and somewhat at an alpha state
 * &#x1f131; - "Coming soon" per their web site
 * &#x1f132; - Meaning, a single means for creating basic UI components that masks basic differences in the native APIs
-* &#x1f133; - The closed-source Hyperloop module enables direct access on iOS and Windows, though has limitations currently. Otherwise, you can create a "native module" to expose the native APIs to the Titanium layer.
 * &#x1f134; - LiveView (from Appcelerator) and TiShadow (community) offers whole-app-reload rather than live reload of the "current screen"
 * &#x1f135; - Eclipsed-based IDE available to subscribers only; community-created options to support Sublime, Atom, TextMate, etc.
 * &#x1f136; - Telerik offers plug-ins for Visual Studio and Sublime. They also offer an online code editor and build tools.
 * &#x1f137; - Atom-based IDE is reported to be in development; community-created plug-ins available.
 * &#x1f138; - In essence, ReactNative is just the "V" of MVC
-* &#x1f139; - Appcelerator publishes their current SDK to only subscribers. OSS/community members have access to one-prior releases (so if current version is 5.1.0.GA, OSS members get access to 5.0.0.GA). OSS users can compile the current SDK from source or use a <a href="http://builds.appcelerator.com.s3.amazonaws.com/index.html#master" target="_blank">CI build</a>.
-
-
 
 ### Support mechanisms
 |Customer type      |Titanium  |NativeScript|ReactNative |
@@ -72,7 +68,7 @@ An interesting project to watch is [react-titanium](https://github.com/yuchi/rea
 | Issues/Tickets     | <a href="https://jira.appcelerator.org/" target="_blank">Jira</a>  | <a href="https://github.com/NativeScript/NativeScript/issues" target="_blank">GitHub</a>   |  <a href="https://github.com/facebook/react-native/issues" target="_blank">GitHub</a>  |
 | Enterprise     | Varies:<br/>Jira, SLA, phone  | Varies: contact-us   |  n/a  |
 | Subscriber     | Jira, self-serve forums  | Google group, partners   |   n/a |
-| OSS/Community     | <a href="https://community.appcelerator.com/" target="_blank">Self-serve forums</a>   | <a href="https://groups.google.com/forum/#!forum/nativescript" target="_blank">Google group</a>  |  n/a  |
+| OSS/Indie/Community     | <a href="https://community.appcelerator.com/" target="_blank">Self-serve forums</a>   | <a href="https://groups.google.com/forum/#!forum/nativescript" target="_blank">Google group</a>  |  n/a  |
 
 ## Discrepencies? Missing Info?
 
