@@ -24,8 +24,7 @@ It is **not**:
 |Feature      |<a href="http://www.appcelerator.com" target="_blank">Titanium</a>  |<a href="https://www.nativescript.org/" target="_blank">NativeScript</a>|<a href="https://facebook.github.io/react-native/" target="_blank">ReactNative</a> |
 |-------------|----------|------------|------------|
 | License     | Apache / Proprietary   | Apache 2.0   | BSD   |
-| Current version     | [6.0.3.GA](http://docs.appcelerator.com/platform/latest/#!/guide/Titanium_SDK_6.0.3.GA_Release_Note)   | [3.0 RC](https://www.nativescript.org/blog/nativescript-3.0-release-candidate-available-today)   | [0.42](https://github.com/facebook/react-native/releases/tag/v0.42.0)   |
-| Release date     | 03/22/2017   | 03/29/2017   | 01/03/2017   |
+| Current version     | [6.0.4.GA](http://docs.appcelerator.com/platform/latest/#!/guide/Titanium_SDK_6.0.4.GA_Release_Note)   | [3.0 RC](https://www.nativescript.org/blog/nativescript-3.0-release-candidate-available-today)   | [0.44](https://github.com/facebook/react-native/releases)   |
 | Code repo     | <a href="https://github.com/appcelerator/titanium_mobile/" target="_blank">titanium-mobile</a>   | <a href="https://github.com/NativeScript/NativeScript" target="_blank">NativeScript</a>   | <a href="https://github.com/facebook/react-native" target="_blank">react</a>   |
 | iOS apps       | &#x2705; | &#x2705;   | &#x2705;   |
 | Android apps   | &#x2705; | &#x2705;   | &#x274e; &#x1f130;   |
@@ -35,9 +34,9 @@ It is **not**:
 | Unified x-platform UI &#x1f132; | &#x274e; | &#x2705; | &#x274c; |
 | Direct access<br/>to native APIs | Via modules or Hyperloop JS | &#x2705; |Via modules |
 | Module-based<br/>extensibility | &#x2705; | &#x2705; | &#x2705; |
-| Reusable UI<br/>components | Alloy Widgets | Plugins | &#x2753; |
+| Reusable UI<br/>components | Alloy Widgets | Plugins | Components |
 | Styling | TSS (proprietary<br/>CSS-like) | CSS subset | Flexbox |
-| Debugging | Via Studio IDE | Chrome debug tools & [Visual Studio Code integration](https://www.nativescript.org/nativescript-for-visual-studio-code) | Chrome debug tools |
+| Debugging | Via Studio IDE | Chrome debug tools & [Visual Studio Code integration](https://www.nativescript.org/nativescript-for-visual-studio-code) | [In-app & Chrome debug tools](https://facebook.github.io/react-native/docs/debugging.html) |
 | Hot reload  | &#x274e;&#x1f133; | &#x2705; |&#x2705; |
 | Code encryption | &#x274e; | &#x274e; | &#x274c; |
 | Compile-time license<br/>checks | &#x2757; | &#x274c; | &#x274c; |
@@ -45,12 +44,10 @@ It is **not**:
 | Testing / crash<br/>reporting | Subscribers | Subscribers | Parse |
 | Analytics | Subscribers | Paid add-on | Parse |
 | IDE | Appcelerator Studio &#x1f134; | &#x26d4; &#x1f135; | &#x274c; &#x1f136; |
-| Framework | Alloy (MVC-like)| &#x2753; | &#x2753; &#x1f137; |
+| Framework | Alloy (MVC-like)| Angular (though optional) | &#x2753; &#x1f137; |
 | Biz model   | Enterprise, MBaaS,<br/>Paid subscriptions | Enterprise support, MBaaS,<br/>Paid add-ons | &#x2753; |
 | MBaaS companion | Arrow Cloud | Telerik Backend Services | Parse |
 | Subscriptions/cost | Indie: Free<br/>Pro: $99/seat/mo<br/>Enterprise: call | OSS: Free<br/>Seat: $39/mo<br/>Add-ons: vary<br/>Enterprise: call | Free |
-
-An interesting project to watch is [react-titanium](https://github.com/yuchi/react-titanium) which is a custom React renderer for Titanium. In theory, this would give you a mix of benefits of those two tools.
 
 **Footnotes**
 
@@ -86,7 +83,7 @@ Submit a pull request!
 
 ## Disclosure
 
-I used to work for Appcelerator (as lead trainer and later as an engineer). In part, I prepared this chart to help me overcome the natural bias and myopia that comes from working for a company for four years. The info here is as unbiased as I can make it, given my background. It is not meant to endorse or promote any of these tools over another. Please make your own *informed* choice.
+I used to work for Appcelerator (as lead trainer and later as an engineer). Since then, I've dabbled with NativeScript and React Native though I've used neither for a production app. The info here is as unbiased as I can make it, given my background. It is not meant to endorse or promote any of these tools over another. Please make your own *informed* choice.
 
 
 
